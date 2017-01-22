@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "787803023587",
+    "firebase_url": "https://daboyzcalculator.firebaseio.com",
+    "project_id": "daboyzcalculator",
+    "storage_bucket": "daboyzcalculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787803023587:android:33d3367880b4a020",
+        "android_client_info": {
+          "package_name": "com.example.felix.daboyzcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787803023587-jn2k35ft0j8pgudqh5pgt90dmr786baa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.felix.daboyzcalculator",
+            "certificate_hash": "430EF2C4EF64AF5655601BD055BB2027A98FF313"
+          }
+        },
+        {
+          "client_id": "787803023587-dpgv9c1r8sg9ehinndq57kloho0qp4nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB79iG4uvq6KHvXfdCp23S7LU7okgjuXwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787803023587-dpgv9c1r8sg9ehinndq57kloho0qp4nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
